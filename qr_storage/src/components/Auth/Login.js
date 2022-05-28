@@ -4,7 +4,7 @@ import axios from "axios";
 import LoginForm from "./LoginForm";
 import Container from "../../common/Container";
 import Splash from "../../common/Splash";
-//find image for RegSplash and import it
+import RegSplash from "../../assets/login_qrstorage.jpg"
 import { apiHostUrl } from "../../config";
 import { AuthContext } from "../../Providers/AuthProvider"
 
